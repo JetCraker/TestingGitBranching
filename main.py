@@ -1,2 +1,3 @@
 print("Hello, i`m Roma")
 print("Hello, i`m Vlad")
+print("Hello, i`m anonymous")
